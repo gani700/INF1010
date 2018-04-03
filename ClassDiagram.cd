@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GestionnaireProduits">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAIAAACAAAAAAAAAQAAAAECgAEAAAAAAAAAAIAA=</HashCode>
+      <FileName>GestionnaireProduits.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Client">
+    <Position X="12" Y="5.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ABAAACCAAAGAAAAgAAAkQAAAAEAAAAAAAAAEQAAAAAQ=</HashCode>
+      <FileName>Client.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClientPremium">
+    <Position X="12" Y="10" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAQAAAAAAAAAAAAAAQAQAAAEAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>ClientPremium.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fournisseur">
+    <Position X="9.25" Y="5.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAQAICAAAEAEAAAAAAAAEAAAAAAAAAEQAAAAQA=</HashCode>
+      <FileName>Fournisseur.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Produit">
+    <Position X="3.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAiAEAAAAAAAAAAACwAAQAAAECAAAAAgAABAQAIgAE=</HashCode>
+      <FileName>Produit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProduitAuxEncheres">
+    <Position X="3" Y="5.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAEAACAAAAQAKAEAAAAAAAQAAAAAAACA=</HashCode>
+      <FileName>ProduitAuxEncheres.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProduitSolde">
+    <Position X="6.25" Y="5.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAgAAAAAAAAAA=</HashCode>
+      <FileName>ProduitSolde.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Solde">
+    <Position X="6.25" Y="1.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAgAAAAAAAAQACAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Solde.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Usager">
+    <Position X="10.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ABEAAEAAAAIAAAAQACQAQICEAEAAAAAAAAAMQQAIAAE=</HashCode>
+      <FileName>Usager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestionnaireGenerique&lt;&gt;">
+    <Position X="0.5" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GestionnaireGenerique.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
